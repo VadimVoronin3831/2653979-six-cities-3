@@ -78,10 +78,10 @@ export const CITIES: City[] = [
 ];
 
 export enum APP_ROUTE {
-  Login = 'six-cities/login',
-  Favorites = 'six-cities/favorites',
-  Offer = 'six-cities/offer/:id',
-  Root = 'six-cities/',
+  Login = '2653979-six-cities-3/login',
+  Favorites = '2653979-six-cities-3/favorites',
+  Offer = '2653979-six-cities-3/offer/:id',
+  Root = '2653979-six-cities-3/',
   NotFound= '*',
 }
 

@@ -10,7 +10,7 @@
     "test": "vitest --passWithNoTests",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://VadimVoronin3831.github.io/six-cities",
+  "homepage": "https://VadimVoronin3831.github.io/2653979-six-cities-3",
   "dependencies": {
     "@reduxjs/toolkit": "1.9.7",
     "axios": "1.5.1",
