@@ -85,6 +85,7 @@ export enum APP_ROUTE {
   NotFound= '*',
 }
 
+
 export enum AuthorizationStatus {
   Auth = 'AUTH',
   NoAuth = 'NO_AUTH',
